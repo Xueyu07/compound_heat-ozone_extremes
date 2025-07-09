@@ -8,10 +8,9 @@ All data files are named according to the figure numbers they support (e.g., `So
 
 ##  Source Data Description
 
+| Figure | Corresponding Source Data 
 
-| Figure | Corresponding Source Data |
-
-| Fig1a,b     | `SourceData_Fig1.xlsx` and `Fig1a_population_density.nc`
+| Fig1a,b     | `SourceData_Fig1.xlsx` and `Fig1a_population_density.nc` 
 | Fig2a-c     | `SourceData_Fig2.xlsx` 
 | Fig3a,b     | `SourceData_Fig3.xlsx` 
 | Fig4a-c     | `SourceData_Fig4.xlsx` 
